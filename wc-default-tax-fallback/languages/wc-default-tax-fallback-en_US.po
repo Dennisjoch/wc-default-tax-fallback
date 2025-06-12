@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Default Tax Fallback 1.0.0\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin_name
+msgid "WC Default Tax Fallback"
+msgstr "WC Default Tax Fallback"
+
+#: plugin_description
+msgid "Adds a configurable fallback country for tax calculation when WooCommerce cannot determine the customer's location (for example because of IP blockers) or when the detected country is not covered by your Standard tax rates. The fallback country can be selected in WooCommerce → Settings → Tax underneath the option \"Calculate tax based on\"."
+msgstr "Adds a configurable fallback country for tax calculation when WooCommerce cannot determine the customer's location (for example because of IP blockers) or when the detected country is not covered by your Standard tax rates. The fallback country can be selected in WooCommerce → Settings → Tax underneath the option \"Calculate tax based on\"."
+
+#: settings_field_title
+msgid "Fallback tax country"
+msgstr "Fallback tax country"
+
+#: settings_field_description
+msgid "Country to use when no valid customer country can be detected or the detected country has no Standard tax rate."
+msgstr "Country to use when no valid customer country can be detected or the detected country has no Standard tax rate."
+
+#: select_placeholder
+msgid "— Select country —"
+msgstr "— Select country —"
