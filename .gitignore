@@ -28,9 +28,3 @@ coverage/
 # WordPress-specific
 # Compiled translation files – keep the .pot / .po, but ignore .mo
 languages/*.mo
-
-# The public-repo banner & icon live only in the SVN “assets” directory,
-# not in the plugin directory that is packed for release.  We keep the
-# source images in /assets-src and ignore the assets directory that gets
-# copied during the SVN deploy step.
-assets/
