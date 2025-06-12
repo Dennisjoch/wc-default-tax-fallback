@@ -46,7 +46,7 @@
 
 | Settings page |
 | :---: |
-| ![Settings screenshot](https://raw.githubusercontent.com/your-username/wc-default-tax-fallback/main/.github/screenshot-settings.png) |
+| ![Settings screenshot](https://raw.githubusercontent.com/Dennisjoch/wc-default-tax-fallback/main/.github/screenshot-settings.png) |
 
 (_The screenshot is stored in `.github/screenshot-settings.png` for GitHub; WordPress.org uses the banner/icon assets._)
 
@@ -58,7 +58,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ```bash
 # Clone
-git clone https://github.com/your-username/wc-default-tax-fallback.git
+git clone [https://github.com/Dennisjoch/wc-default-tax-fallback.git](https://github.com/Dennisjoch/wc-default-tax-fallback.git)
 
 # (Optional) Install dev dependencies for code style checks
 composer install
