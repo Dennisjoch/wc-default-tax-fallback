@@ -46,7 +46,7 @@
 
 | Settings page |
 | :---: |
-| ![Settings screenshot](https://raw.githubusercontent.com/Dennisjoch/wc-default-tax-fallback/main/.github/screenshot-settings.png) |
+| ![Settings screenshot]([https://raw.githubusercontent.com/Dennisjoch/wc-default-tax-fallback/main/.github/screenshot-settings.png](https://github.com/Dennisjoch/wc-default-tax-fallback/blob/efef12319ad3c0762e902633ab5c1a6ffd7aef98/assets/banner-1544x500.png)) |
 
 (_The screenshot is stored in `.github/screenshot-settings.png` for GitHub; WordPress.org uses the banner/icon assets._)
 
